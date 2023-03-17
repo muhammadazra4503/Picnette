@@ -1,0 +1,38 @@
+* {
+    margin: o;
+    padding: 0;
+}
+
+.col img {
+    height: 550px;
+
+}
+
+.col h3 {
+    text-align: center;
+    padding-top: 10%;
+}
+
+.form-control {
+    border-radius: 20px;
+    border-width: 2px;
+    border-color: black;
+    opacity: 50%;
+}
+
+.btn {
+    border-radius: 50px;
+    width: 124.56px;
+    height: 43.54px;
+    background-color: #688293;
+}
+
+.col a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.4);
+    font-weight: bold;
+}
+
+.col p {
+    color: rgba(0, 0, 0, 0.4);
+}

@@ -1,0 +1,107 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container-header h1, p {
+    text-align: center;
+    color: white;
+}
+
+.container-header h1 {
+    padding-top: 10%;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+}
+
+.container-header p {
+    padding-top: 40px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+}
+
+.btn {
+    border-radius: 50px;
+    width: 124.56px;
+    height: 43.54px;
+    background-color: #688293;
+    margin-left: 9%;
+}
+
+.container-header {
+    margin-left: 110px;
+    margin-right: 110px;
+}
+
+.container-body {
+    margin-left: 110px;
+    margin-right: 110px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.container-body a {
+    text-decoration: none;
+    color: black;
+}
+
+.container-body h3 {
+    padding-top: 30px;
+}
+
+.container-contact {
+    margin-left: 110px;
+    margin-right: 110px;
+    padding-top: 10px;
+    text-align: center;
+    background-color: #D2D0D4;
+    border-radius: 50px;
+    padding-bottom: 30px;
+}
+
+.container-contact a {
+    text-decoration: none;
+    color: black;
+    padding-left: 50px;
+}
+
+.container-contact a:nth-of-type(1) {
+    padding-left: 0;
+}
+
+.container-contact i {
+    padding-right: 5px;
+}
+
+.container-contact h4 {
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.btn1 {
+    background-color: #688293;
+    border: 2px solid #688293;
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+.btn1:hover {
+    background-color: #728d9e;
+}
+
+.mb-4 {
+    padding-bottom: 30px;
+    padding-top: 20px;
+}

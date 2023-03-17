@@ -1,0 +1,17 @@
+
+.container-body p {
+    color: black;
+}
+
+.container-header {
+    margin-left: 110px;
+    margin-right: 110px;
+}
+
+.container-body {
+    margin-left: 110px;
+    margin-right: 110px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}

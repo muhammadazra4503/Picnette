@@ -1,0 +1,15 @@
+.our-studio {
+    margin-top: 50px;
+}
+
+.our-studio h1 {
+    padding-bottom: 40px;
+}
+
+.carousel {
+    margin-top: 50px;
+}
+
+.carousel:nth-of-type(1) {
+    margin-top: 0;
+}

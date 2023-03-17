@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+.container-header {
+    margin-left: 110px;
+    margin-right: 110px;
+}
+
+.container-body {
+    margin-left: 110px;
+    margin-right: 110px;
+    padding-top: 30px;
+}
+
+.btn1 {
+    background-color: #688293;
+    border: 2px solid #688293;
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+    color: white;
+}
